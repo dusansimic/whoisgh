@@ -1,0 +1,16 @@
+{
+  "name": "whoisgh",
+  "version": "0.0.0",
+  "description": "WhoIs tool for GitHub profiles.",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": "https://github.com/dusansimic/whoisgh",
+  "author": "Dušan Simić <dusan.simic1810@gmail.com> (http://dusansimic.me)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "conf": "^2.0.0",
+    "got": "^9.0.0",
+    "meow": "^5.0.0"
+  }
+}
